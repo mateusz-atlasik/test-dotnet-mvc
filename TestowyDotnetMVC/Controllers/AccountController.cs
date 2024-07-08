@@ -2,13 +2,24 @@ using Microsoft.AspNetCore.Mvc;
 
 public class AccountController : Controller
 {
-    public IActionResult Login()
+    [HttpPost]
+    public async Task<IActionResult> Login(LoginViewModel model)
     {
+        if (ModelState.IsValid)
+        {
+            
+        }
         return View();
     }
 
-    public IActionResult Register()
+    [HttpPost]
+    public async Task<IActionResult> Register(RegisterViewModel model)
     {
-        return View();
+        if (ModelState.IsValid)
+        {
+            // Code omitted for brevity
+        }
+
+        return View(model);
     }
 }

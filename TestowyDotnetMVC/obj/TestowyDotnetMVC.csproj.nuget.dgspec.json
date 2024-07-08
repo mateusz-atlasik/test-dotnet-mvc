@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mateusz\\MySoft\\NetCoreWebAppMVC\\TestowyDotnetMVC\\TestowyDotnetMVC.csproj": {}
+    "/Users/p4n4c3um/Documents/DEV/dotnet/test-dotnet-mvc/TestowyDotnetMVC/TestowyDotnetMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mateusz\\MySoft\\NetCoreWebAppMVC\\TestowyDotnetMVC\\TestowyDotnetMVC.csproj": {
+    "/Users/p4n4c3um/Documents/DEV/dotnet/test-dotnet-mvc/TestowyDotnetMVC/TestowyDotnetMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mateusz\\MySoft\\NetCoreWebAppMVC\\TestowyDotnetMVC\\TestowyDotnetMVC.csproj",
+        "projectUniqueName": "/Users/p4n4c3um/Documents/DEV/dotnet/test-dotnet-mvc/TestowyDotnetMVC/TestowyDotnetMVC.csproj",
         "projectName": "TestowyDotnetMVC",
-        "projectPath": "C:\\Users\\Mateusz\\MySoft\\NetCoreWebAppMVC\\TestowyDotnetMVC\\TestowyDotnetMVC.csproj",
-        "packagesPath": "C:\\Users\\Mateusz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mateusz\\MySoft\\NetCoreWebAppMVC\\TestowyDotnetMVC\\obj\\",
+        "projectPath": "/Users/p4n4c3um/Documents/DEV/dotnet/test-dotnet-mvc/TestowyDotnetMVC/TestowyDotnetMVC.csproj",
+        "packagesPath": "/Users/p4n4c3um/.nuget/packages/",
+        "outputPath": "/Users/p4n4c3um/Documents/DEV/dotnet/test-dotnet-mvc/TestowyDotnetMVC/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Mateusz\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/p4n4c3um/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -32,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -56,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

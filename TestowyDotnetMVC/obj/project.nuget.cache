@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Lsyt0PdoY4W0WB4c1nm97B0r6FHiRsN1JObgTUBj05miJ/KuONsaZoxfWzuYS/Xeb2Sgqbya8fbd9UG1Pp97Uw==",
+  "dgSpecHash": "UejUw9RSYK4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mateusz\\MySoft\\NetCoreWebAppMVC\\TestowyDotnetMVC\\TestowyDotnetMVC.csproj",
+  "projectFilePath": "/Users/p4n4c3um/Documents/DEV/dotnet/test-dotnet-mvc/TestowyDotnetMVC/TestowyDotnetMVC.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
